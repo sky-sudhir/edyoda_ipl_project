@@ -444,7 +444,7 @@ var teamData = [
     },
     {
         "id": 5,
-        "teamFullName": "Gujarat Tistan",
+        "teamFullName": "Gujarat Titan",
         "sName": "GT",
         "fullSname":"GT (Gujarat Tistan)" ,
         "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/GT/Logos/Roundbig/GTroundbig.png",

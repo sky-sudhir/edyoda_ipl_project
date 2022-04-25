@@ -22,7 +22,7 @@ var playerData = [
         "isPlaying": true,
         "description": "All-rounder",
         "playerImg": 'https://assets.iplt20.com/ipl/IPLHeadshot2022/2740.png',
-        "playerTeam": "Gujarat Titans"
+        "playerTeam": "Gujarat Titan"
     },
     {
         "id": 1,
@@ -32,7 +32,7 @@ var playerData = [
         "isPlaying": true,
         "description": "Bowler",
         "playerImg": 'https://assets.iplt20.com/ipl/IPLHeadshot2022/94.png',
-        "playerTeam": "Gujarat Titans"
+        "playerTeam": "Gujarat Titan"
     },
     {
         "id": 2,
@@ -42,7 +42,7 @@ var playerData = [
         "isPlaying": false,
         "description": "Bowler",
         "playerImg": 'https://assets.iplt20.com/ipl/IPLHeadshot2022/3761.png',
-        "playerTeam": "Gujarat Titans"
+        "playerTeam": "Gujarat Titan"
     },
     {
         "id": 3,
@@ -52,7 +52,7 @@ var playerData = [
         "isPlaying": true,
         "description": "All-rounder",
         "playerImg": 'https://assets.iplt20.com/ipl/IPLHeadshot2022/1740.png',
-        "playerTeam": "Gujarat Titans"
+        "playerTeam": "Gujarat Titan"
     },
     {
         "id": 4,
@@ -62,7 +62,7 @@ var playerData = [
         "isPlaying": true,
         "description": "Bowler",
         "playerImg": 'https://assets.iplt20.com/ipl/IPLHeadshot2022/2885.png',
-        "playerTeam": "Gujarat Titans"
+        "playerTeam": "Gujarat Titan"
     },
     {
         "id": 5,
@@ -412,7 +412,7 @@ var teamData = [
     },
     {
         "id": 1,
-        "teamFullName": "Chennai Super King",
+        "teamFullName": "Chennai Super Kings",
         "sName": "CSK",
         "fullSname":"CSK (Chennai Super King)" ,
         "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
@@ -420,7 +420,7 @@ var teamData = [
     },
     {
         "id": 2,
-        "teamFullName": "Royal challengers Bangalore",
+        "teamFullName": "Royal Challengers Bangalore",
         "sName": "RCB",
         "fullSname":"RCB (Royal challengers Bangalore)" ,
         "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",

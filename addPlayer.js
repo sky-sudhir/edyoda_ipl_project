@@ -8,7 +8,7 @@ for(var i=0;i<localTeam.length;i++){
                
     `
 }
-
+var newData=10
 $("#addteamform").submit(function (e) {
     e.preventDefault();
     let inp_val = $("#inp6").val();
